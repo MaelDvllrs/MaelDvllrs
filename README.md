@@ -28,7 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=maeldvllrs&show_icons=true&theme=radical" alt="Stats GitHub"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maeldvllrs&theme=radical" alt="Streaks GitHub"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeldvllrs&layout=compact&theme=radical" alt="Langages les plus utilisés"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=tonprofil&theme=radical&no-bg=true" alt="Trophées GitHub de ton profil"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=maeldvllrs&theme=radical&no-bg=true" alt="Trophées GitHub de ton profil"/>
 </p>
 
 ### 🤝 Contacte-moi
