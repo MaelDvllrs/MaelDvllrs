@@ -54,10 +54,10 @@
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="48" height="48" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="powershell" />
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
