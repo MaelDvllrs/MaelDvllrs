@@ -103,7 +103,7 @@
 <a href="https://www.linkedin.com/in/mael-devillers-b12a5b236">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="linkdin"/>
 </a>
-<a href="https://www.linkedin.com/in/mael-devillers-b12a5b236">
+<a href="https://discordapp.com/users/664478556608266260">
   <img src="https://skillicons.dev/icons?i=discord" alt="discord"/>
 </a>
 
