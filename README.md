@@ -25,11 +25,8 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeldvllrs&layout=compact&theme=radical" alt="Langages les plus utilisés"/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maeldvllrs&show_icons=true&theme=radical" alt="Stats GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maeldvllrs&theme=radical" alt="Streaks GitHub"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=maeldvllrs&show_icons=true&theme=radical" alt="Stats GitHub"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maeldvllrs&theme=radical" alt="Streaks GitHub"/>
 
 
 ### 🤝 Contacte-moi
