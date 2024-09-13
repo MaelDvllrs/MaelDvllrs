@@ -24,6 +24,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonprofil&layout=compact&theme=radical" alt="Langages les plus utilisés"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maeldvllrs&show_icons=true&theme=radical" alt="Stats GitHub"/>
