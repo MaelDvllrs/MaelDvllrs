@@ -5,6 +5,10 @@
 ### 🔧 Technology and Tools
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeldvllrs&layout=compact&theme=radical" alt="Langages les plus utilisés"/>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="60" height="60"/>
