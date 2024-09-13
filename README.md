@@ -98,6 +98,12 @@
 <img src="https://github-profile-trophy.vercel.app/?username=maeldvllrs&theme=radical&no-bg=true" alt="Trophées GitHub de ton profil"/>
 
 
-### 🤝 Contacte-moi
-- 💼 [LinkedIn](https://www.linkedin.com/in/mael-devillers-b12a5b236)
+### 🤝 Contact-me
+
+<a href="https://www.linkedin.com/in/mael-devillers-b12a5b236">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="linkdin"/>
+</a>
+<a href="https://www.linkedin.com/in/mael-devillers-b12a5b236">
+  <img src="https://skillicons.dev/icons?i=discord" alt="discord"/>
+</a>
 
