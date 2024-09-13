@@ -1,7 +1,7 @@
 # 👋 Hi !
 
 ## CTO Wenoble
-<a href="wenoble.fr">🌐 wenoble.fr</a>
+🌐<a href="wenoble.fr">wenoble.fr</a>
 
 ### 🔧 Technology and Tools
 
