@@ -7,6 +7,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeldvllrs&layout=compact&theme=radical" alt="Langages les plus utilisés"/>
 
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -30,7 +31,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="48" height="48" alt="Java" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
@@ -50,7 +51,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
@@ -63,6 +64,9 @@
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
     </td>
   </tr>
 </table>
