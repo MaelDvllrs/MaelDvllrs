@@ -4,9 +4,9 @@
 
 ### 🔧 Technology and Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeldvllrs&layout=compact&theme=radical" alt="Langages les plus utilisés"/>
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeldvllrs&layout=compact&theme=radical" alt="Langages les plus utilisés"/>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
@@ -31,9 +31,9 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=maeldvllrs&show_icons=true&theme=radical" alt="Stats GitHub"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maeldvllrs&theme=radical" alt="Streaks GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeldvllrs&layout=compact&theme=radical" alt="Langages les plus utilisés"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=maeldvllrs&theme=radical&no-bg=true" alt="Trophées GitHub de ton profil"/>
 </p>
+<img src="https://github-profile-trophy.vercel.app/?username=maeldvllrs&theme=radical&no-bg=true" alt="Trophées GitHub de ton profil"/>
+
 
 ### 🤝 Contacte-moi
 - 💼 [LinkedIn](https://www.linkedin.com/in/mael-devillers-b12a5b236)
