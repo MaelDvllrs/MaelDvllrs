@@ -26,8 +26,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonprofil&show_icons=true&theme=radical" alt="Stats GitHub de Ton Profil"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonprofil&theme=radical" alt="Streaks GitHub de Ton Profil"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maeldvllrs&show_icons=true&theme=radical" alt="Stats GitHub"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maeldvllrs&theme=radical" alt="Streaks GitHub"/>
 </p>
 
 
