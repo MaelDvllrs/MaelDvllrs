@@ -13,7 +13,7 @@
  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝
 </pre>
 🌐<a href="https://www.wenoble.fr">wenoble.fr</a>
-<br>
+<br><br>
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeldvllrs&layout=compact&theme=radical" alt="Langages les plus utilisés"/>
@@ -23,6 +23,7 @@
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=maeldvllrs&theme=radical&no-bg=true" alt="Trophées GitHub de ton profil"/>
 <br><br>
+
 
 ## 🔧 Technology and Tools
 <table>
