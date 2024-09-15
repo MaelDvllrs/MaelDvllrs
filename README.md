@@ -117,5 +117,5 @@
   <img src="https://skillicons.dev/icons?i=discord" alt="discord"/>
 </a>
 <br>
-<a href="mael.devillers@wenoble.fr">mael.devillers@wenoble.fr</a>
+<a href="mailto: mael.devillers@wenoble.fr">mael.devillers@wenoble.fr</a>
 
