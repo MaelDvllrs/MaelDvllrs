@@ -1,7 +1,9 @@
 # 👋 Hi !
+<br>
 
-## CTO Wenoble
+## 👨‍💻 About me
 
+### CTO Wenoble
 <pre>
 ██╗    ██╗███████╗███╗   ██╗ ██████╗ ██████╗ ██╗     ███████╗
 ██║    ██║██╔════╝████╗  ██║██╔═══██╗██╔══██╗██║     ██╔════╝
@@ -11,13 +13,18 @@
  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝
 </pre>
 🌐<a href="https://www.wenoble.fr">wenoble.fr</a>
+<br>
 
-### 🔧 Technology and Tools
-
-
+## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeldvllrs&layout=compact&theme=radical" alt="Langages les plus utilisés"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=maeldvllrs&show_icons=true&theme=radical" alt="Stats GitHub"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maeldvllrs&theme=radical" alt="Streaks GitHub"/>
+</p>
+<img src="https://github-profile-trophy.vercel.app/?username=maeldvllrs&theme=radical&no-bg=true" alt="Trophées GitHub de ton profil"/>
+<br><br>
 
-
+## 🔧 Technology and Tools
 <table>
   <tr>
     <td align="center" width="96">
@@ -100,15 +107,9 @@
     </td>
   </tr>
 </table>
+<br>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=maeldvllrs&show_icons=true&theme=radical" alt="Stats GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maeldvllrs&theme=radical" alt="Streaks GitHub"/>
-</p>
-<img src="https://github-profile-trophy.vercel.app/?username=maeldvllrs&theme=radical&no-bg=true" alt="Trophées GitHub de ton profil"/>
-
-
-### 🤝 Contact-me
+## 🤝 Contact-me
 
 <a href="https://www.linkedin.com/in/mael-devillers-b12a5b236">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="linkdin"/>
@@ -117,5 +118,5 @@
   <img src="https://skillicons.dev/icons?i=discord" alt="discord"/>
 </a>
 <br>
-<a href="mailto: mael.devillers@wenoble.fr">mael.devillers@wenoble.fr</a>
+<p>📧 <a href="mailto: mael.devillers@wenoble.fr">mael.devillers@wenoble.fr</a></p>
 
