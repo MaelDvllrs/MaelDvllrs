@@ -13,6 +13,7 @@
  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝
 </pre>
 🌐<a href="https://www.wenoble.fr">wenoble.fr</a>
+
 <br><br>
 
 ## 📊 GitHub Stats
@@ -118,6 +119,8 @@
 <a href="https://discordapp.com/users/664478556608266260">
   <img src="https://skillicons.dev/icons?i=discord" alt="discord"/>
 </a>
+<a href="mailto: mael.devillers@wenoble.fr">
+  <img src="https://cdn.prod.website-files.com/658154b722f8c5cabece8b0b/65aa9be446d4b6f24bd268ec_webclip.png" width="50" alt="mail"/>
+</a>
 <br>
-<p>📧 <a href="mailto: mael.devillers@wenoble.fr">mael.devillers@wenoble.fr</a></p>
 
