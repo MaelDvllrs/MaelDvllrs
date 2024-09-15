@@ -116,4 +116,6 @@
 <a href="https://discordapp.com/users/664478556608266260">
   <img src="https://skillicons.dev/icons?i=discord" alt="discord"/>
 </a>
+<br>
+<a href="mael.devillers@wenoble.fr">mael.devillers@wenoble.fr</a>
 
