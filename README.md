@@ -1,126 +1,95 @@
 # 👋 Hi !
+
 <br>
 
 ## 👨‍💻 About me
 
-### CTO Wenoble
-<pre>
-██╗    ██╗███████╗███╗   ██╗ ██████╗ ██████╗ ██╗     ███████╗
-██║    ██║██╔════╝████╗  ██║██╔═══██╗██╔══██╗██║     ██╔════╝
-██║ █╗ ██║█████╗  ██╔██╗ ██║██║   ██║██████╔╝██║     █████╗  
-██║███╗██║██╔══╝  ██║╚██╗██║██║   ██║██╔══██╗██║     ██╔══╝  
-╚███╔███╔╝███████╗██║ ╚████║╚██████╔╝██████╔╝███████╗███████╗
- ╚══╝╚══╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝
-</pre>
-🌐<a href="https://www.wenoble.fr">wenoble.fr</a>
+I'm **Maël**, a French software developer and CTO & co-founder of [Wenoble](https://www.wenoble.fr).
 
-<br><br>
+I build web products, SaaS platforms and AI-powered features — from frontend experiences to backend architectures and deployment.
+
+I enjoy turning ideas into **simple, useful and scalable products**, with a strong focus on product, performance and developer experience.
+
+Currently working mainly with **TypeScript, React, Next.js, Node.js and Python**, while exploring AI agents, LLMs and modern web architectures.
+
+> **Wake up and build.**
+
+<br>
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeldvllrs&layout=compact&theme=radical&hide=html,css" alt="Langage most uses"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeldvllrs&layout=compact&theme=radical&hide=html,css" alt="Most used languages"/>
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=maeldvllrs&show_icons=true&theme=radical" alt="Stats GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maeldvllrs&theme=radical" alt="Streaks GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maeldvllrs&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maeldvllrs&theme=radical" alt="GitHub Streak"/>
 </p>
-<img src="https://github-profile-trophy.vercel.app/?username=maeldvllrs&theme=radical&no-bg=true" alt="Trophées GitHub de ton profil"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=maeldvllrs&theme=radical&no-bg=true" alt="GitHub Trophies"/>
+
 <br><br>
 
+## ⚡ Technologies
 
-## 🔧 Technology and Tools
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/typescript/white" width="40" height="40" alt="TypeScript"/>
+      <br>TypeScript
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/react/white" width="40" height="40" alt="React"/>
+      <br>React
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" />
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/nextdotjs/white" width="40" height="40" alt="Next.js"/>
+      <br>Next.js
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/nodedotjs/white" width="40" height="40" alt="Node.js"/>
+      <br>Node.js
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="48" height="48" alt="Node.js" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" height="48" alt="Django" />
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/python/white" width="40" height="40" alt="Python"/>
+      <br>Python
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/supabase/white" width="40" height="40" alt="Supabase"/>
+      <br>Supabase
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/tailwindcss/white" width="40" height="40" alt="Tailwind CSS"/>
+      <br>Tailwind
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="powershell" />
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/webflow/white" width="40" height="40" alt="Webflow"/>
+      <br>Webflow
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/cloudflare/white" width="40" height="40" alt="Cloudflare"/>
+      <br>Cloudflare
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=webflow" width="48" height="48" alt="webflow" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="vite" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="materialui" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=symfony" width="48" height="48" alt="symfony" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/git/white" width="40" height="40" alt="Git"/>
+      <br>Git
     </td>
   </tr>
 </table>
+
 <br>
 
-## 🤝 Contact-me
+## 🤝 Connect
 
 <a href="https://www.linkedin.com/in/mael-devillers-b12a5b236">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="linkdin"/>
+  <img src="https://cdn.simpleicons.org/linkedin/white" width="32" height="32" alt="LinkedIn"/>
 </a>
-<a href="https://discordapp.com/users/664478556608266260">
-  <img src="https://skillicons.dev/icons?i=discord" alt="discord"/>
+&nbsp;&nbsp;
+<a href="https://x.com/marl_2304">
+  <img src="https://cdn.simpleicons.org/x/white" width="32" height="32" alt="X"/>
 </a>
-<a href="mailto: mael.devillers@wenoble.fr">
-  <img src="https://cdn.prod.website-files.com/658154b722f8c5cabece8b0b/65aa9be446d4b6f24bd268ec_webclip.png" width="50" alt="mail"/>
+&nbsp;&nbsp;
+<a href="https://www.trymael.com/">
+  <img src="https://cdn.simpleicons.org/googlechrome/white" width="32" height="32" alt="Portfolio"/>
 </a>
-<br>
-
