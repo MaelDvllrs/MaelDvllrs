@@ -17,22 +17,22 @@ Currently working mainly with **TypeScript, React, Next.js, Node.js and Python**
 <br>
 
 
-⚡ Technologies
+## ⚡ Technologies
 
-<table> <tr> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/typescript/white" width="40" height="40" alt="TypeScript"/> <br>TypeScript </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/react/white" width="40" height="40" alt="React"/> <br>React </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/nextdotjs/white" width="40" height="40" alt="Next.js"/> <br>Next.js </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/nodedotjs/white" width="40" height="40" alt="Node.js"/> <br>Node.js </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/python/white" width="40" height="40" alt="Python"/> <br>Python </td> </tr> <tr> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/nestjs/white" width="40" height="40" alt="NestJS"/> <br>NestJS </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/express/white" width="40" height="40" alt="Express"/> <br>Express </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/postgresql/white" width="40" height="40" alt="PostgreSQL"/> <br>PostgreSQL </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/mongodb/white" width="40" height="40" alt="MongoDB"/> <br>MongoDB </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/supabase/white" width="40" height="40" alt="Supabase"/> <br>Supabase </td> </tr> <tr> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/openai/white" width="40" height="40" alt="OpenAI"/> <br>OpenAI </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/anthropic/white" width="40" height="40" alt="Claude"/> <br>Claude </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/modelcontextprotocol/white" width="40" height="40" alt="MCP"/> <br>MCP </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/vercel/white" width="40" height="40" alt="Vercel"/> <br>Vercel </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub"/> <br>GitHub </td> </tr> </table>
+<table> <tr> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/typescript/white" width="40" height="40" alt="TypeScript"/> </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/react/white" width="40" height="40" alt="React"/> </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/nextdotjs/white" width="40" height="40" alt="Next.js"/> </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/nodedotjs/white" width="40" height="40" alt="Node.js"/> </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/python/white" width="40" height="40" alt="Python"/> </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/tailwindcss/white" width="40" height="40" alt="Tailwind CSS"/> </td> </tr> <tr> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/nestjs/white" width="40" height="40" alt="NestJS"/> </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/express/white" width="40" height="40" alt="Express"/> </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/postgresql/white" width="40" height="40" alt="PostgreSQL"/> </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/mongodb/white" width="40" height="40" alt="MongoDB"/> </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/supabase/white" width="40" height="40" alt="Supabase"/> </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/docker/white" width="40" height="40" alt="Docker"/> </td> </tr> <tr> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/openai/white" width="40" height="40" alt="OpenAI"/> </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/anthropic/white" width="40" height="40" alt="Claude"/> </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/modelcontextprotocol/white" width="40" height="40" alt="MCP"/> </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/vercel/white" width="40" height="40" alt="Vercel"/> </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/cloudflare/white" width="40" height="40" alt="Cloudflare"/> </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub"/> </td> </tr> </table>
 
 <br>
 
 ## 🤝 Connect
 
 <a href="https://www.linkedin.com/in/mael-devillers-b12a5b236">
-  <img src="https://cdn.simpleicons.org/linkedin/white" width="32" height="32" alt="LinkedIn"/>
+  <img src="https://cdn.simpleicons.org/linkedin/white" width="15" height="15" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://x.com/marl_2304">
-  <img src="https://cdn.simpleicons.org/x/white" width="32" height="32" alt="X"/>
+  <img src="https://cdn.simpleicons.org/x/white" width="15" height="15" alt="X"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.trymael.com/">
-  <img src="https://cdn.simpleicons.org/googlechrome/white" width="32" height="32" alt="Portfolio"/>
+  <img src="https://cdn.simpleicons.org/googlechrome/white" width="15" height="15" alt="Portfolio"/>
 </a>
