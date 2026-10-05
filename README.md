@@ -17,54 +17,9 @@ Currently working mainly with **TypeScript, React, Next.js, Node.js and Python**
 <br>
 
 
-## ⚡ Technologies
+⚡ Technologies
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/typescript/white" width="40" height="40" alt="TypeScript"/>
-      <br>TypeScript
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/react/white" width="40" height="40" alt="React"/>
-      <br>React
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/nextdotjs/white" width="40" height="40" alt="Next.js"/>
-      <br>Next.js
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/nodedotjs/white" width="40" height="40" alt="Node.js"/>
-      <br>Node.js
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/python/white" width="40" height="40" alt="Python"/>
-      <br>Python
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/supabase/white" width="40" height="40" alt="Supabase"/>
-      <br>Supabase
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/tailwindcss/white" width="40" height="40" alt="Tailwind CSS"/>
-      <br>Tailwind
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/webflow/white" width="40" height="40" alt="Webflow"/>
-      <br>Webflow
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/cloudflare/white" width="40" height="40" alt="Cloudflare"/>
-      <br>Cloudflare
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/git/white" width="40" height="40" alt="Git"/>
-      <br>Git
-    </td>
-  </tr>
-</table>
+<table> <tr> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/typescript/white" width="40" height="40" alt="TypeScript"/> <br>TypeScript </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/react/white" width="40" height="40" alt="React"/> <br>React </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/nextdotjs/white" width="40" height="40" alt="Next.js"/> <br>Next.js </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/nodedotjs/white" width="40" height="40" alt="Node.js"/> <br>Node.js </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/python/white" width="40" height="40" alt="Python"/> <br>Python </td> </tr> <tr> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/nestjs/white" width="40" height="40" alt="NestJS"/> <br>NestJS </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/express/white" width="40" height="40" alt="Express"/> <br>Express </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/postgresql/white" width="40" height="40" alt="PostgreSQL"/> <br>PostgreSQL </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/mongodb/white" width="40" height="40" alt="MongoDB"/> <br>MongoDB </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/supabase/white" width="40" height="40" alt="Supabase"/> <br>Supabase </td> </tr> <tr> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/openai/white" width="40" height="40" alt="OpenAI"/> <br>OpenAI </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/anthropic/white" width="40" height="40" alt="Claude"/> <br>Claude </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/modelcontextprotocol/white" width="40" height="40" alt="MCP"/> <br>MCP </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/vercel/white" width="40" height="40" alt="Vercel"/> <br>Vercel </td> <td align="center" width="110"> <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub"/> <br>GitHub </td> </tr> </table>
 
 <br>
 
