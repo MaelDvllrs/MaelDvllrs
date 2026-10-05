@@ -16,18 +16,6 @@ Currently working mainly with **TypeScript, React, Next.js, Node.js and Python**
 
 <br>
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeldvllrs&layout=compact&theme=radical&hide=html,css" alt="Most used languages"/>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=maeldvllrs&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maeldvllrs&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=maeldvllrs&theme=radical&no-bg=true" alt="GitHub Trophies"/>
-
-<br><br>
 
 ## ⚡ Technologies
 
